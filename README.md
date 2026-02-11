@@ -2,6 +2,11 @@
 
 A command-line productivity tracking application that helps you monitor your study hours, physical activity, mood, and correlations between them.
 
+
+
+https://github.com/user-attachments/assets/5aa5782b-7564-4c3b-99b5-133ee9c436cf
+
+
 ## Features ✨
 
 - **📝 Add Entries**: Log daily productivity data (study hours, sport hours, mood level, notes)
@@ -160,4 +165,5 @@ Feel free to fork this project and submit pull requests with improvements!
 ---
 
 **Happy tracking! 📈**
+
 
