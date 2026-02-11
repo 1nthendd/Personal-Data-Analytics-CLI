@@ -147,15 +147,10 @@ The application includes comprehensive error handling for:
 ## Requirements
 
 See [requirements.txt](requirements.txt)
-
 - matplotlib>=3.5.0
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Author
-
+Makhmud Barakhoev
 Created as a personal productivity tracking project.
 
 ## Contributing
@@ -165,3 +160,4 @@ Feel free to fork this project and submit pull requests with improvements!
 ---
 
 **Happy tracking! 📈**
+
