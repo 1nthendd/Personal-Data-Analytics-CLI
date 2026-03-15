@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/5aa5782b-7564-4c3b-99b5-133ee9c436cf
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Personal-Data-Analytics-CLI.git
+git clone https://github.com/1nthendd/Personal-Data-Analytics-CLI.git
 cd Personal-Data-Analytics-CLI
 ```
 
